@@ -1,5 +1,3 @@
-/**/
-
 let listOfRandomNumbers = [];
 let maxNumber = 10;
 let secretNumber = generateRandomNumber();
